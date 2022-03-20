@@ -85,11 +85,13 @@ Then take the 2d polygon sets, and create vertices, linedefs, sidedefs and secto
 
 We have no texture information - so each wall should have a generated custom texture with it's polyface ID on it:
 
+```
 +------+
 |      |
 | 3102 |
 |      |
 +------+
+```
 
 ## Level texturing
 
