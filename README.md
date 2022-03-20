@@ -25,6 +25,8 @@ Not really my wheelhouse - but we need the music as midi files
 
 ### Monster Sprites
 
+Ideally several different NPCs
+
 At least a generic NPC and/or a cop (todo cop mockup image here) as decoration while you run around
 
 What other sprites are needed depends on what happens with the **Long Term Plan**
