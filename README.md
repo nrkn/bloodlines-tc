@@ -130,7 +130,7 @@ All the required textures are included with VtMB and the tools to convert them t
 
 ### Palette
 
-The Doom palette doesn't do a terrible job - noticably absent though are the neon blues that are really prevalent in Bloodlines
+The Doom palette doesn't do a terrible job - noticably absent though are the neon cyans that are really prevalent in Bloodlines
 
 ![Doom Palette](img/doom-palette.png)
 
@@ -138,7 +138,7 @@ There is an [alternate Doom palette](https://www.doomworld.com/forum/topic/10999
 
 ![Blue Palette](img/blue-palette.png)
 
-Another option is to use a custom palette. I had a quick play with sampling a palette from some Bloodlines screenshots. It had a **lot** of yellow and blue. 
+Another option is to use a custom palette. I had a quick play with sampling a palette from some Bloodlines screenshots. It had a **lot** of yellow and cyan. 
 
 ![Sampled Palette](img/sampled-palette.png)
 
