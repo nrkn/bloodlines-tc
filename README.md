@@ -93,6 +93,9 @@ We have no texture information - so each wall should have a generated custom tex
 +------+
 ```
 
+Then we can use the survey data to figure out the texture for each numbered polyface - bit manual but easiest option if 
+we can't get any more useful info out of Hammer.
+
 ## Level texturing
 
 All the required textures are included with VtMB and the tools to convert them to eg PNG are included with the SDK
@@ -109,7 +112,9 @@ I'm leaning heavily towards just using the improved blue palette, saves work, th
 
 However you manage the palette, all textures, sprites etc have to be converted to this palette 
 
-If you do it automatically, some will look great but most will come out entirely/mostly grayscale
+If you do it automatically, some will look great but most will come out entirely/mostly grayscale - the absolute best way is to convert them one at a time manually, but it's time consuming
+
+I have some ideas for tools to help speed this up
 
 ## Level decoration
 
