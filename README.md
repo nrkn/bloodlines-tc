@@ -4,9 +4,9 @@ VtM Bloodlines in Doom
 
 ## Proof of concept
 
-(todo: screenshot here)
-
 https://github.com/nrkn/sm-vtmb-wad
+
+![Pawnshop Haven](img/sm-vtmb-wad.png)
 
 ## Goal
 
@@ -27,11 +27,15 @@ Not really my wheelhouse - but we need the music as midi files
 
 Ideally several different NPCs
 
-At least a generic NPC and/or a cop (todo cop mockup image here) as decoration while you run around
+At least a generic NPC and/or a cop as decoration while you run around
+
+![LA's finest](img/cop.png)
 
 Due to the limitations of details being readable at this scale, I would prefer to modify the DOOM sprites, or at least keep NPCs drawn as sprites, rather than eg rasterize Bloodlines models (though I could be open to this if we could automate it **and** it looks good)
 
 If going down sprite path, I have some existing partial code somewhere for doing paper doll stuff, so we could create a handful of body types based on the generic doom human sprite and then dress them up
+
+![Paper Doll](img/paper-doll.png)
 
 What other sprites are needed depends on what happens with the **Long Term Plan**
 
