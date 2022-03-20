@@ -43,7 +43,7 @@ Replacing eg font, title screen, endoom etc
 
 ## Level Building Plan
 
-1. Research - what needs to be figured out
+1. Research - what needs to be figured out - what can be automated - what tools do we need to find/make?
 2. Surveying - comprehensive screen shots from Bloodlines for comparison while building
 3. Export - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the survey
 4. Building - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
