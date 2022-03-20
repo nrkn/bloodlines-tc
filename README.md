@@ -60,11 +60,11 @@ Replacing eg font, title screen, endoom etc
 ## Plan
 
 1. **Research** - what needs to be figured out - what can be automated - what tools do we need to find/make?
-2. **Surveying** - comprehensive screen shots from Bloodlines for comparison while building
-3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the survey
-4. **Building** - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
-5. **Art** - using scale, create various patches, textures etc from exported materials, tweak for doom palette
-5. **Decorating** - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
+2. **Survey** - comprehensive screen shots from Bloodlines for comparison while building
+3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the *Survey*
+4. **Build** - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
+5. **Art** - using scale, create various patches, textures, sprites etc from exported materials, tweak for doom palette
+5. **Decorate** - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
 6. **NPCs** - can we script them to roam and be non hostile unless player fires a weapon?
 
 ## Contributing
@@ -119,7 +119,7 @@ custom texture with it's polyface ID on it:
 +------+
 ```
 
-Then we can use the survey data to figure out the texture for each numbered polyface - bit manual but easiest option if 
+Then we can use the *Survey* data to figure out the texture for each numbered polyface - bit manual but easiest option if 
 we can't get any more useful info out of Hammer.
 
 I suspect (haven't been able to verify yet) that in some cases - for example if a building has a basement and something weird above it, or where buildings have overhangs - that this technique is going to create an empty open space in the doom map where something should be - but the outlines for it will be visible as double sided linedefs on the map, so shouldn't be too hard to fix manually 
