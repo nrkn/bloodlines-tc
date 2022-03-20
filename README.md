@@ -122,9 +122,19 @@ All the required textures are included with VtMB and the tools to convert them t
 
 The Doom palette doesn't do a terrible job - noticably absent though are the neon blues that are really prevalent in Bloodlines
 
-There is an alternate Doom palette which is a drop in replacement that has improved blues (todo: find and post link)
+![Doom Palette](img/doom-palette.png)
 
-Another option is to use a custom palette. I had a quick play with sampling a palette from some Bloodlines screenshots (todo: insert image). It had a **lot** of yellow and blue. You can then build a new palette based on the sample - this is a bit of work because unless you organise the custom palette into roughly the same ramps as are used in the Doom palette, you also have to create a custom COLORMAP lump (a lookup table that Doom uses for lighting, it has indices into the palette).
+There is an [alternate Doom palette](https://www.doomworld.com/forum/topic/109994-coldpal-a-new-palette-for-doomdoom2-on-idgames/) which is a drop in replacement that has improved blues
+
+![Blue Palette](img/blue-palette.png)
+
+Another option is to use a custom palette. I had a quick play with sampling a palette from some Bloodlines screenshots. It had a **lot** of yellow and blue. 
+
+![Sampled Palette](img/sampled-palette.png)
+
+You can then build a new palette based on the sample - this is a bit of work because unless you organise the custom palette into roughly the same ramps as are used in the Doom palette, you also have to create a custom COLORMAP lump (a lookup table that Doom uses for lighting, it has indices into the palette).
+
+![COLOMAP](img/colormap.png)
 
 I'm leaning heavily towards just using the improved blue palette, saves work, though a custom palette would be fun to make
 
