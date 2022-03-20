@@ -29,6 +29,10 @@ Ideally several different NPCs
 
 At least a generic NPC and/or a cop (todo cop mockup image here) as decoration while you run around
 
+Due to the scale, I would prefer to modify the DOOM sprites, or at least keep them in sprite style, rather than eg rasterize Bloodlines models
+
+I have some existing code for doing paper doll stuff, so we could create a handful of body types based on the generic doom human sprite and then dress them up
+
 What other sprites are needed depends on what happens with the **Long Term Plan**
 
 ### Sound
