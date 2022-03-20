@@ -1,4 +1,4 @@
-# Bloodlines TC
+# [Bloodlines TC](README.md)
 
 VtM Bloodlines in Doom
 
@@ -59,7 +59,7 @@ Replacing eg font, title screen, endoom etc
 
 ## Plan
 
-1. **Research** - what needs to be figured out - what can be automated - what tools do we need to find/make?
+1. **[Research](research/readme.md)** - what needs to be figured out - what can be automated - what tools do we need to find/make?
 2. **Survey** - comprehensive screen shots from Bloodlines for comparison while building
 3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the *Survey*
 4. **Build** - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
