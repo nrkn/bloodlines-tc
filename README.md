@@ -51,6 +51,10 @@ Replacing eg font, title screen, endoom etc
 5. Decorating - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
 6. NPCs - can we script them to roam and be non hostile unless player fires a weapon?
 
+## Contributing
+
+At this stage, read this document and let me know your thoughts and what you're interested in doing
+
 ## Tools
 
 ### Bloodlines
@@ -72,14 +76,14 @@ Hammer can export to DXF, an Autocad format - it's pretty crude, just exports a 
 
 Doom Builder supports UDMF, a text format - it's easy to work with if you want to eg generate/import geometry from code
 
-Slade is a lump editor, so we can merge together UDMF text maps, custom graphics etc
+Slade is a lump editor, so we can merge together UDMF text maps, custom graphics, music etc into a WAD that a source port can play
 
 ## Level geometry
 
 Doom requirements are that any sectors have to have a single floor and ceiling, eg no level over level
 
-Based on some prior work I've done and a bit of research, I think the basic process to convert DXF is that you map the 3D 
-polyfaces to 2 sets of 2d polygons - looking from top down, the ceiling, looking from bottom up, the floor
+Based on some prior work I've done and a bit of research, I think the basic process to convert from the DXF that Hammer exports 
+is that you map the 3D polyfaces to 2 sets of 2d polygons - looking from top down, the ceiling, looking from bottom up, the floor
 
 Then take the 2d polygon sets, and create vertices, linedefs, sidedefs and sectors for doom and save to UDMF
 
