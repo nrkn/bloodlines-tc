@@ -17,6 +17,14 @@ At it's most basic:
 3. **Mid Term Plan** - you can go inside selected places
 4. **Long Term Plan** - there are things to do (via scripting) - or alternately, just keycard/switch/monster puzzles like Doom?
 
+For the **Long Term Plan**, I think it's best to leave it open for now. There are lots of ways you could do this, with the two extremes
+perhaps being:
+
+1. you're Doomguy, in the VtMB universe for some reason, and you're playing Doom 
+2. it's bloodlines made in an alternate universe where for some reason the team only had the Doom engine to work with
+
+There is also a lot of midground - you could have it mostly doom, but model the keycard/switch puzzles off real VtMB quests
+
 ### Music
 
 A placeholder at least - even if just something that fits aesthetically (todo find and add link to reddit comment with youtube links)
