@@ -41,7 +41,7 @@ I would like deb of night when you interact with a radio tho
 
 Replacing eg font, title screen, endoom etc 
 
-## Level Building Plan
+## Plan
 
 1. Research - what needs to be figured out - what can be automated - what tools do we need to find/make?
 2. Surveying - comprehensive screen shots from Bloodlines for comparison while building
