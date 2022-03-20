@@ -12,10 +12,10 @@ https://github.com/nrkn/sm-vtmb-wad
 
 At it's most basic:
 
-1. Very Short Term Plan - you can run around outside Santa Monica hub
-2. Short Term Plan - you can run around outside all the hubs
-3. Mid Term Plan - you can go inside selected places
-4. Long Term Plan - there are things to do (via scripting) - or alternately, just keycard/switch/monster puzzles like Doom?
+1. **Very Short Term Plan** - you can run around outside Santa Monica hub
+2. **Short Term Plan** - you can run around outside all the hubs
+3. **Mid Term Plan** - you can go inside selected places
+4. **Long Term Plan** - there are things to do (via scripting) - or alternately, just keycard/switch/monster puzzles like Doom?
 
 ### Music
 
@@ -27,7 +27,7 @@ Not really my wheelhouse - but we need the music as midi files
 
 At least a generic NPC and/or a cop (todo cop mockup image here) as decoration while you run around
 
-What other sprites are needed depends on what happens with the Long Term Plan 
+What other sprites are needed depends on what happens with the **Long Term Plan**
 
 ### Sound
 
