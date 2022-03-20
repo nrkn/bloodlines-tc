@@ -61,8 +61,9 @@ Replacing eg font, title screen, endoom etc
 
 Hammer can export to DXF, an Autocad format - it's pretty crude, just exports a raw list of polyfaces, no info about textures
 
-Research: is there a way to get a bill of materials for a level out of Hammer? 
-Research: can any newer versions of Hammer still open Bloodlines maps? If so might be able to export something better
+*Research*: is there a way to get a bill of materials for a level out of Hammer? 
+
+*Research*: can any newer versions of Hammer still open Bloodlines maps? If so might be able to export something better
 
 ### Doom
 
