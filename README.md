@@ -59,13 +59,13 @@ Replacing eg font, title screen, endoom etc
 
 ## Plan
 
-1. Research - what needs to be figured out - what can be automated - what tools do we need to find/make?
-2. Surveying - comprehensive screen shots from Bloodlines for comparison while building
-3. Export - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the survey
-4. Building - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
-5. Create Textures - using scale, create various patches, textures etc from exported materials, tweak for doom palette
-5. Decorating - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
-6. NPCs - can we script them to roam and be non hostile unless player fires a weapon?
+1. **Research** - what needs to be figured out - what can be automated - what tools do we need to find/make?
+2. **Surveying** - comprehensive screen shots from Bloodlines for comparison while building
+3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the survey
+4. **Building** - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
+5. **Art** - using scale, create various patches, textures etc from exported materials, tweak for doom palette
+5. **Decorating** - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
+6. **NPCs** - can we script them to roam and be non hostile unless player fires a weapon?
 
 ## Contributing
 
