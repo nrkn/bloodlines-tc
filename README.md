@@ -150,7 +150,7 @@ I'm leaning heavily towards just using the improved blue palette, saves work, th
 
 However you manage the palette, all textures, sprites etc have to be converted to this palette 
 
-If you do it automatically, some will look great but most will come out entirely/mostly grayscale - the absolute best way is to convert them one at a time manually, but it's time consuming
+If you do it automatically, some will look great but most will come out entirely/mostly grayscale - the absolute best way is to convert them one at a time manually (eg adjusting hues, contrast, saturation, brightness - in many cases to only part of the texture - before applying palette), but it's time consuming
 
 I have some ideas for tools to help speed this up
 
