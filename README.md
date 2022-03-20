@@ -91,7 +91,11 @@ is that you map the 3D polyfaces to 2 sets of 2d polygons - looking from top dow
 
 Then take the 2d polygon sets, and create vertices, linedefs, sidedefs and sectors for doom and save to UDMF
 
-We have no texture information - so each wall should have a generated custom texture with it's polyface ID on it:
+I have code that can so far convert the DXF as far as UDMF vertices and linedefs - I think building sidedefs and sectors is 
+relatively straightforward but might involve a bit of swearing
+
+We have no texture information in the DXF but we have a unique ID for each polyface - so each wall should have a generated 
+custom texture with it's polyface ID on it:
 
 ```
 +------+
@@ -103,6 +107,8 @@ We have no texture information - so each wall should have a generated custom tex
 
 Then we can use the survey data to figure out the texture for each numbered polyface - bit manual but easiest option if 
 we can't get any more useful info out of Hammer.
+
+I suspect (haven't been able to verify yet) that in some cases - for example if a building has a basement and something weird above it, or where buildings have overhangs - that this technique is going to create an empty open space in the doom map where something should be - but the outlines for it will be visible as double sided linedefs on the map, so shouldn't be too hard to fix manually 
 
 ## Level texturing
 
