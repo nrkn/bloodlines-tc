@@ -82,7 +82,7 @@ At this stage, read this document and let me know your thoughts and what you're 
 Hammer can export to DXF, an Autocad format - it's pretty crude, just exports a raw list of polyfaces, no info about textures
 
 ~~Research: is there a way to get a bill of materials for a level out of Hammer?~~ 
-[Bill of materials for Pawnshop Apartments](research/geometry/VMFParser/results/sm_pawnshop_1_d.vmf_materials.txt)
+[Bill of materials for Pawnshop Apartments](research/geometry/webman-VMFParser/results/sm_pawnshop_1_d.vmf_materials.txt)
 
 *Research*: can any newer versions of Hammer still open Bloodlines maps? If so might be able to export something better - alternately see 
 if there is a parser that can load Valve VMF maps, like https://github.com/webman/vmf-parser, but because the Bloodlines version is so old
@@ -90,7 +90,7 @@ this might be a stretch
 
 **Update**: VMFParser can get bill of materials
 
-**Update**: [The level VMF is a text format](research/geometry/VMFParser/sources/sm_pawnshop_1_d.vmf) - 
+**Update**: [The level VMF is a text format](research/geometry/webman-VMFParser/sources/sm_pawnshop_1_d.vmf) - 
 we can parse it ourselves if necessary
 
 ### Doom
