@@ -8,14 +8,18 @@ https://github.com/nrkn/sm-vtmb-wad
 
 ![Pawnshop Haven](img/sm-vtmb-wad.png)
 
+## Current Status
+
+We are in the **Research** stage
+
 ## Goal
 
 At it's most basic:
 
-1. **Very Short Term Plan** - you can run around outside Santa Monica hub
+1. **Very Short Term Plan** - you can run around outside Santa Monica
 2. **Short Term Plan** - you can run around outside all the hubs
 3. **Mid Term Plan** - you can go inside selected places
-4. **Long Term Plan** - there are things to do (via scripting) - or alternately, just keycard/switch/monster puzzles like Doom?
+4. **Long Term Plan** - there are things to do
 
 For the **Long Term Plan**, I think it's best to leave it open for now. There are lots of ways you could do this, with the two extremes
 perhaps being:
