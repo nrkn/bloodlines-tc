@@ -90,6 +90,9 @@ this might be a stretch
 
 **Update**: VMFParser can get bill of materials
 
+**Update**: [The level VMF is a text format](research/geometry/VMFParser/sources/sm_pawnshop_1_d.vmf) - 
+we can parse it ourselves if necessary
+
 ### Doom
 
 - Ultimate Doom Builder 3.0.0.3925 (2dfe043)
