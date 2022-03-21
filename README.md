@@ -61,7 +61,7 @@ Replacing eg font, title screen, endoom etc
 
 1. **[Research](research/readme.md)** - what needs to be figured out - what can be automated - what tools do we need to find/make?
 2. **Survey** - comprehensive screen shots from Bloodlines for comparison while building
-3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures either via bill of materials from bloodlines map or manually via the *Survey*
+3. **Gather** - from Bloodlines, export and convert geometry, find and extract used textures using bill of materials from bloodlines map 
 4. **Build** - turning converted geometry blueprint into actual doom level, test and find right scale, fixing, tweaking etc
 5. **Art** - using scale, create various patches, textures, sprites etc from exported materials, tweak for doom palette
 5. **Decorate** - texture level, lighting, objects (mix of sprites and doom "geometry" eg raised floor for table) etc
@@ -81,11 +81,14 @@ At this stage, read this document and let me know your thoughts and what you're 
 
 Hammer can export to DXF, an Autocad format - it's pretty crude, just exports a raw list of polyfaces, no info about textures
 
-*Research*: is there a way to get a bill of materials for a level out of Hammer? 
+~~Research: is there a way to get a bill of materials for a level out of Hammer?~~ 
+[Bill of materials for Pawnshop Apartments](research/geometry/VMFParser/results/sm_pawnshop_1_d.vmf_materials.txt)
 
 *Research*: can any newer versions of Hammer still open Bloodlines maps? If so might be able to export something better - alternately see 
 if there is a parser that can load Valve VMF maps, like https://github.com/webman/vmf-parser, but because the Bloodlines version is so old
 this might be a stretch
+
+**Update**: VMFParser can get bill of materials
 
 ### Doom
 
